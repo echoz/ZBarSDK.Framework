@@ -16,3 +16,7 @@ On cloning the repository just issue the following commands to get the submodule
 ## Usage
 
 Drag and drop the finished product `ZBarSDK.Framework` into your project and it should automatically be setup within your project settings.
+
+## Kudos
+
+Inspired by the new Facebook 3.0 SDK.
