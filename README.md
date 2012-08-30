@@ -1,4 +1,6 @@
-# ZBarSDK Framework
+# ZBarSDK.Framework
+
+.Framework build script for http://zbar.sourceforge.net
 
 Execute the `build_framework.sh` script to build a universal (iOS/iPhoneSimulator) ZBarSDK.Framework for you that you can use with your iOS projects.
 
