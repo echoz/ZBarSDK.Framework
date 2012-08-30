@@ -86,4 +86,6 @@ ln -s ./Versions/A/ZBarSDK ./ZBarSDK
 cd $FRAMEWORK/Versions
 ln -s ./A ./Current
 
+rm -fr $ZBARIPHONE/build
+
 echo "Successfully created framework"
