@@ -40,7 +40,6 @@ test -n "$XCODEBUILDPATH" || die 'Could not find Xcode path.'
 FRAMEWORKNAME=ZBarSDK.framework
 SCRIPTDIR=$(pwd)
 XCODEBUILD=$XCODEBUILDPATH/usr/bin/xcodebuild
-LIPO=$(which lipo)
 ZBARIPHONE=$SCRIPTDIR/zbarSDK/iphone
 ZBARBUILDDIR=$SCRIPTDIR/zbarSDK/iphone/build/Release-iphoneos/ZBarSDK
 
