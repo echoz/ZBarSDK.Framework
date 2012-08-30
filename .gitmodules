@@ -1,0 +1,3 @@
+[submodule "zbarSDK"]
+	path = zbarSDK
+	url = https://github.com/bobftw/zbarSDK.git
